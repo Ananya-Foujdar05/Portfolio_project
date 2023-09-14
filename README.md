@@ -12,13 +12,14 @@
    - [Customer Retention](https://github.com/Ananya-Foujdar05/PWC-customers-retention-dashboard)
    - [Diversity and Inclusion](https://github.com/Ananya-Foujdar05/PWC-Diversity-and-inclusion)
 
++ [HCAHPS Patient Survey Analysis](https://github.com/Ananya-Foujdar05/HCAHPS-Patient-Survey-Analysis)
 + [HR Analytics Dashboard](https://github.com/Ananya-Foujdar05/HR-Employee-Analysis-Dashboard)
  
 ## Excel Project:
 [Bike Buyers Analysis Dashboard](https://github.com/Ananya-Foujdar05/Bike-Buyers-dashboard)
 
 ## SQL Project:
-[Census India Analysis](https://github.com/Ananya-Foujdar05/SQL-project)
+[India Census Analysis](https://github.com/Ananya-Foujdar05/SQL-project)
 
 ## Tableau Project:
 [Google Play Store App Analysis](https://github.com/Ananya-Foujdar05/Google-play-store-app-analysis)
