@@ -7,8 +7,8 @@
 
 
 ## SQL Project:
-[Pizza sales analysis](https://github.com/Ananya-Foujdar05/Pizza-sales-Analysis2/blob/main/README.md)
-[India Census Analysis](https://github.com/Ananya-Foujdar05/SQL-project)
++ [Pizza sales analysis](https://github.com/Ananya-Foujdar05/Pizza-sales-Analysis2/blob/main/README.md)
++ [India Census Analysis](https://github.com/Ananya-Foujdar05/SQL-project)
  
 ## Power BI projects:
 + [Tata Virtual Internship](https://github.com/Ananya-Foujdar05/Tata-Virtual-Internship-project)
